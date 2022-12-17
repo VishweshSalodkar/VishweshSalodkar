@@ -1,4 +1,4 @@
-[![MASTERHEAD](https://qph.cf2.quoracdn.net/main-qimg-eb404726133d268b649c5d077ab6e860.webp)]
+![MASTERHEAD](https://qph.cf2.quoracdn.net/main-qimg-eb404726133d268b649c5d077ab6e860.webp)
 <h1 align="center">Hi 👋, I'm Vishwesh Salodkar</h1>
 <h3 align="center">Hello,I am Vishwesh Salodkar,I have done my graduation in Bachelor of Computer Appication from Nagpur University and Currently I am doing Master Of Computer Application from Pimpri Chichwad College of Engineering,Pune.Skills:-Data Science,Cloud Computing,Devops,Full Stack Web Development.</h3>
 <img align="right" alt="coding"  width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
